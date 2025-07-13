@@ -9,7 +9,7 @@ I also enjoy game development, which I explore as a creative hobby.
 Here on GitHub, I share projects and what I'm learning as I grow in the tech field.
 
 📧 Email: cviny072@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/lorena-araujo-da-silva](https://www.linkedin.com/in/lorena-araujo-da-silva/)
+🔗 LinkedIn: [linkedin.com/in/lorenacviny](https://www.linkedin.com/in/lorenacviny/)
 
 
 ---
