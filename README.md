@@ -1,4 +1,4 @@
-# Lorena Araujo
+# 💻 Lorena Araujo
 **`Developer in training`**
 
 Hi! I'm Lorena Araujo da Silva, currently studying Computer Science.  
