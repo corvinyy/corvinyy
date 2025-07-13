@@ -1,6 +1,8 @@
 # 💻 Lorena Araujo
 **`Developer in training`**
 
+---
+### 💡 About me
 Hi! I'm Lorena Araujo da Silva, currently studying Computer Science.  
 I'm interested in web development and cybersecurity.  
 I also enjoy game development, which I explore as a creative hobby.  
