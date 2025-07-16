@@ -80,7 +80,14 @@ Here on GitHub, I share projects and what I'm learning as I grow in the tech fie
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="nodejs" 
+    title="Node JS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
+/>
 <img 
     align="left" 
     alt="Git" 
