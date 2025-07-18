@@ -15,15 +15,28 @@
     ◽️ I'm interested in web development and cybersecurity.  
     I also enjoy game development, which I explore as a creative hobby.  <br> 
     ◽️ Here on GitHub, I share projects and what I'm learning as I grow in the tech field.  <br><br>
-
-📧 Email: [cviny072@gmail.com](mailto:cviny072@gmail.com)  
-🔗 LinkedIn: [https://www.linkedin.com/in/lorenacviny/](https://www.linkedin.com/in/lorenacviny/)
         </td>
         <td align="right" style="min-width: 180px;">
           <img src="./assets/aubrey.gif" alt="Aubrey gif" width="180" />
         </td>
       </tr>
     </table>
+</div>
+
+---
+<div align="center">
+  <a href="https://www.instagram.com/hey.loren4/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo" />
+  </a>
+  <a href="https://discord.com/users/corviny" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="discord logo" />
+  </a>
+  <a href="mailto:cviny072@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/lorenacviny/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo" />
+  </a>
 </div>
 
 ---
@@ -118,13 +131,13 @@
       alt="GitHub Stats"
       height="200"
       style="padding-right: 10px; width: 420px;"
-      src="https://github-readme-stats.vercel.app/api?username=corvinyy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
+      src="https://github-readme-stats.vercel.app/api?username=corvinyy&show_icons=true&theme=dracula&include_all_commits=true&locale=en"
     />
     <img
       alt="Top Languages"
       height="200"
       style="padding-left: 10px; width: 390px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=corvinyy&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=corvinyy&theme=dracula&layout=compact&custom_title=Technologies&langs_count=9"
     />
   </p>
 </div>
