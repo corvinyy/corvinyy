@@ -1,18 +1,32 @@
-# 💻 Lorena Araujo
+# 💻 Lorena Araujo (or Corviny)
 **`Developer in training`**
 
----
-### 💡 About me
-Hi! I'm Lorena Araujo da Silva, currently studying Computer Science.  
-I'm interested in web development and cybersecurity.  
-I also enjoy game development, which I explore as a creative hobby.  
-Here on GitHub, I share projects and what I'm learning as I grow in the tech field.
-
-📧 Email: cviny072@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/lorenacviny](https://www.linkedin.com/in/lorenacviny/)
+<p align="center">
+  <img src="./assets/Yuji.gif" alt="Yuji Itadori"/>
+</p>
 
 ---
+<div>
+    <h1>💡 About me</h1>
+    <table>
+      <tr>
+        <td>
+    ◽️ Hi! I'm Lorena (Corviny), currently studying Computer Science. <br> 
+    ◽️ I'm interested in web development and cybersecurity.  
+    I also enjoy game development, which I explore as a creative hobby.  <br> 
+    ◽️ Here on GitHub, I share projects and what I'm learning as I grow in the tech field.  <br><br>
 
+📧 Email: [cviny072@gmail.com](mailto:cviny072@gmail.com)  
+🔗 LinkedIn: [https://www.linkedin.com/in/lorenacviny/](https://www.linkedin.com/in/lorenacviny/)
+        </td>
+        <td align="right" style="min-width: 180px;">
+          <img src="./assets/aubrey.gif" alt="Aubrey gif" width="180" />
+        </td>
+      </tr>
+    </table>
+</div>
+
+---
 <br>
 <div align="center"> 
     <h1>🛠️ Tech Stack</h1>
