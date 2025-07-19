@@ -1,5 +1,7 @@
-# 💻 Lorena Araujo (or Corviny)
-**`Developer in training`**
+<div align="center">
+  <h1>💻Lorena Araujo (or Corviny)💻</h1>
+  <h2>Developer in training!</h2>
+</div>
 
 <p align="center">
   <img src="./assets/Yuji.gif" alt="Yuji Itadori"/>
@@ -7,7 +9,7 @@
 
 ---
 <div>
-    <h1>💡 About me</h1>
+    <h1 align="center">💡 About me</h1>
     <table>
       <tr>
         <td>
