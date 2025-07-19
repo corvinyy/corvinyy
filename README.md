@@ -13,8 +13,8 @@
     <table>
       <tr>
         <td>
-    ◽️ Hi! I'm Lorena (Corviny), a Computer Science student passionate about technology and continuous learning. <br> 
-    ◽️ I'm particularly interested in web development and cybersecurity, and I also explore game development as a creative hobby that allows me to combine logic and imagination. <br>   
+    ◽️ Hi! I'm Lorena (Corviny), a Computer Science student passionate about technology and continuous learning. <br><br>  
+    ◽️ I'm particularly interested in web development and cybersecurity, and I also explore game development as a creative hobby that allows me to combine logic and imagination. <br><br>    
     ◽️ On GitHub, I share my personal projects and document what I'm learning as I grow in the tech field. I'm always open to collaboration and feedback! <br><br>
         </td>
         <td align="right" style="min-width: 180px;">
@@ -31,9 +31,6 @@
   </a>
   <a href="https://discord.com/users/380808599863164928" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" style="height:40px" alt="discord logo" />
-  </a>
-  <a href="mailto:cviny072@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" style="height:40px" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/lorenacviny/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" style="height:40px" alt="linkedin logo" />
