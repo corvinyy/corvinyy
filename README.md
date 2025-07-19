@@ -13,10 +13,9 @@
     <table>
       <tr>
         <td>
-    ◽️ Hi! I'm Lorena (Corviny), currently studying Computer Science. <br> 
-    ◽️ I'm interested in web development and cybersecurity.  
-    I also enjoy game development, which I explore as a creative hobby.  <br> 
-    ◽️ Here on GitHub, I share projects and what I'm learning as I grow in the tech field.  <br><br>
+    ◽️ Hi! I'm Lorena (Corviny), a Computer Science student passionate about technology and continuous learning. <br> 
+    ◽️ I'm particularly interested in web development and cybersecurity, and I also explore game development as a creative hobby that allows me to combine logic and imagination. <br>   
+    ◽️ On GitHub, I share my personal projects and document what I'm learning as I grow in the tech field. I'm always open to collaboration and feedback! <br><br>
         </td>
         <td align="right" style="min-width: 180px;">
           <img src="./assets/aubrey.gif" alt="Aubrey gif" width="180" />
