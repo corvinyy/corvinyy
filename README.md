@@ -80,14 +80,6 @@
     />
     <img 
         align="center"
-        alt="Tailwind" 
-        title="Tailwind"
-        height="60" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-    />
-    <img 
-        align="center"
         alt="nodejs" 
         title="Node JS"
         height="60"
