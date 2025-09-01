@@ -80,11 +80,11 @@
     />
     <img 
         align="center"
-        alt="nodejs" 
-        title="Node JS"
+        alt="django" 
+        title="Django"
         height="60"
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  
     />
      <img 
         align="center"
