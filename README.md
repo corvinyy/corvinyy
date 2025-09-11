@@ -11,7 +11,7 @@
       <tr>
         <td>
     ◽️ Hi! I'm Lorena (Corviny), a Computer Science student passionate about technology and continuous learning. <br><br>  
-    ◽️ I'm particularly interested in web development and cybersecurity, and I also explore game development as a creative hobby that allows me to combine logic and imagination. <br><br>    
+    ◽️ I'm particularly interested in web development and computer technician, and I also explore game development as a creative hobby that allows me to combine logic and imagination. <br><br>    
     ◽️ On GitHub, I share my personal projects and document what I'm learning as I grow in the tech field. I'm always open to collaboration and feedback! <br><br>
         </td>
         <td align="right" style="min-width: 180px;">
@@ -93,6 +93,14 @@
         height="60"
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  
+    />
+    <img 
+        align="center"
+        alt="sqlite" 
+        title="sqLite"
+        height="60"
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
     />
      <img 
         align="center"
