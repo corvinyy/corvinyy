@@ -1,7 +1,7 @@
 <div align="center">
   <h1>💻Lorena Araujo (or Corviny)💻</h1>
   <h2>Full-Stack Developer in training!</h2>
-  <img src="./assets/Yuji.gif" alt="Yuji Itadori"/>
+  <img src="./assets/lapis.gif" alt="Yuji Itadori"/>
 </div>
 
 ---
