@@ -1,7 +1,7 @@
 <div align="center">
   <h1>💻Lorena Araujo (or Corviny)💻</h1>
-  <h2> 🌐 WEB Developer / 🔧 Computer Technician </h2>
-  <img src="./assets/lapis.gif" alt="Yuji Itadori"/>
+  <h2> 🌐 WEB Developer |🔧 Computer Technician </h2>
+  <img src="./assets/lapis.gif" alt="Lapis Lazuli"/>
 </div>
 
 ---
@@ -15,7 +15,7 @@
     ◽️ On GitHub, I share my personal projects and document what I'm learning as I grow in the tech field. I'm always open to collaboration and feedback! <br><br>
         </td>
         <td align="right" style="min-width: 180px;">
-          <img src="./assets/aubrey.gif" alt="Aubrey gif" width="180" />
+          <img src="./assets/tanjiro2.gif" alt="Tanjiro gif" width="180" height="180"/>
         </td>
       </tr>
     </table>
