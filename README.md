@@ -64,14 +64,6 @@
     />
     <img 
         align="center"
-        alt="TypeScript"
-        title="TypeScript" 
-        height="60"
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-    />
-    <img 
-        align="center"
         alt="React"
         title="React" 
         height="60" 
