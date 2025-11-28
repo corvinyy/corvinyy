@@ -1,44 +1,55 @@
-<div align="center">
-  <h1>💻Lorena Araujo (or Corviny)💻</h1>
-  <h2> 🌐 WEB Developer |🔧 Computer Technician </h2>
-  <img src="./assets/lapis.gif" alt="Lapis Lazuli"/>
-</div>
+## ❄ Lorena Araujo (ou Corviny) ❄
+### 🌐 Desenvolvedora WEB |🔧 Técnica de Computadores </h3>
+<img src="./assets/lapis.gif" alt="Lapis Lazuli"/>
+
+---
+
+## 💻 Melhores Projetos
+
+| Projetos      | Descrição | Link |
+|----------------|-----------| ----------|
+| **PCI Site** | Site feito para Projetos Consultoria Integrada (Empresa Júnior real) | [Repositório](https://github.com/corvinyy/projetosintegrada) |
+| **Casa de Atena - SGEA** | Sistema de gerenciamento de eventos acadêmicos (fictício) | [Repositório](https://github.com/okiobot/SGEA---Casa-de-Atena) |
+| **CvinyKey** | Gerador de Senhas com características selecionáveis | [Repositório](https://github.com/corvinyy/password-generator) |
+| **Portfólio** | Meu portfólio (desatualizado) | [Repositório](https://github.com/corvinyy/portifolio) |
+
+<br>
+
+---
+
+## 💡 Sobre mim
+  <table>
+    <tr>
+      <td>
+◽️ Olá! Sou a Lorena (Corviny), estudante de Ciência da Computação (UniCEUB), apaixonada por tecnologia e aprendizado contínuo. <br><br>
+◽️ Tenho interesse especial em desenvolvimento web e em suporte/técnico em informática, e também exploro o desenvolvimento de jogos como um hobby criativo que me permite combinar lógica e imaginação. <br><br>
+◽️ No GitHub, compartilho meus projetos pessoais e registro o que estou aprendendo à medida que evoluo na área de tecnologia. Estou sempre aberta a colaborações e feedback! <br><br>
+      </td>
+      <td align="right" style="min-width: 180px;">
+          <img src="./assets/tanjiro2.gif" alt="Tanjiro gif" width="180" height="180"/>
+      </td>
+      </tr>
+  </table>
+
 
 ---
 <div>
-    <h1 align="center">💡 About me</h1>
-    <table>
-      <tr>
-        <td>
-    ◽️ Hi! I'm Lorena (Corviny), a Computer Science student (UniCEUB) passionate about technology and continuous learning. <br><br>  
-    ◽️ I'm particularly interested in web development and computer technician, and I also explore game development as a creative hobby that allows me to combine logic and imagination. <br><br>    
-    ◽️ On GitHub, I share my personal projects and document what I'm learning as I grow in the tech field. I'm always open to collaboration and feedback! <br><br>
-        </td>
-        <td align="right" style="min-width: 180px;">
-          <img src="./assets/tanjiro2.gif" alt="Tanjiro gif" width="180" height="180"/>
-        </td>
-      </tr>
-    </table>
+    <a href="https://www.instagram.com/hey.loren4/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" style="height:40px" alt="instagram logo" />
+    </a>
+    <a href="https://discord.com/users/380808599863164928" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" style="height:40px" alt="discord logo" />
+    </a>
+    <a href="https://www.linkedin.com/in/lorenacviny/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" style="height:40px" alt="linkedin logo" />
+    </a>
 </div>
 
 ---
-<div align="center">
-  <a href="https://www.instagram.com/hey.loren4/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" style="height:40px" alt="instagram logo" />
-  </a>
-  <a href="https://discord.com/users/380808599863164928" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" style="height:40px" alt="discord logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/lorenacviny/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" style="height:40px" alt="linkedin logo" />
-  </a>
-</div>
 
----
-<br>
-<div align="center"> 
-    <h1>🛠️ Tech Stack</h1>
-    <img 
+## 🛠️ Tech Stack
+
+   <img 
         align="center"
         alt="HTML"
         title="HTML" 
@@ -102,31 +113,60 @@
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
     />
-</div>
 
 <br/>
+
+  <img 
+      align="center"
+      alt="VSCode"
+      title="VScode" 
+      height="60"
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+   />
+   <img 
+      align="center"
+      alt="Canva"
+      title="Canva" 
+      height="60"
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
+   />
+   <img 
+      align="center"
+      alt="Git"
+      title="Git" 
+      height="60"
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+   />
+   <img 
+      align="center"
+      alt="Github"
+      title="Github" 
+      height="60"
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+   />
+   
 <br/>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/corvinyy/corvinyy/output/snake.svg" alt="Snake animation" />
-</div>
+---
+<img src="https://raw.githubusercontent.com/corvinyy/corvinyy/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <h1>📊 Statistics</h1>
-  <p>
-    <img
+
+## 📊 Estatísticas
+  <img
+        alt="Top Languages"
+        height="200"
+        style="width: 370px"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=corvinyy&theme=dracula&layout=compact&custom_title=Technologies&langs_count=9"
+      />
+  <img
       alt="GitHub Stats"
       height="200"
-      style="padding-right: 10px; width: 420px;"
+      style=""
       src="https://github-readme-stats.vercel.app/api?username=corvinyy&show_icons=true&theme=dracula&include_all_commits=true&locale=en"
     />
-    <img
-      alt="Top Languages"
-      height="200"
-      style="padding-left: 10px; width: 390px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=corvinyy&theme=dracula&layout=compact&custom_title=Technologies&langs_count=9"
-    />
-  </p>
-</div>
-
+    
 <br>
