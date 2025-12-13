@@ -76,14 +76,12 @@
     style="width: 370px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=corvinyy&theme=dracula&layout=compact&custom_title=Technologies&langs_count=9"
   />
-      
   <img
     alt="GitHub Stats"
     height="200"
     style=""
     src="https://github-readme-stats.vercel.app/api?username=corvinyy&show_icons=true&theme=dracula&include_all_commits=true&locale=en"
   />
-    
   <img
     align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=corvinyy&theme=tokyonight&hide_border=false"
