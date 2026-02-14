@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Corviny&color=0066CC&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 ### 🌐 Desenvolvedora WEB |🔧 Técnica de Computadores </h3>
-<img src="./assets/lapis.gif" alt="Lapis Lazuli"/>
+<img src="./assets/hornet.gif" alt="hornet"/>
 
 ---
 
